@@ -1,3 +1,5 @@
 <template>
-  <Todo />
+  <NuxtLayout>
+    <Todo />
+  </NuxtLayout>
 </template>
